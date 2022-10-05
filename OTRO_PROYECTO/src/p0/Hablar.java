@@ -3,7 +3,7 @@ package p0;
 public class Hablar {
 
 	public static void main(String[] args) {
-		System.out.println("BLA BLA BLA ... 2");
+		System.out.println("BLA BLA BLA ... ahora es TRES");
 	}
 	
 }
